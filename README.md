@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Daniel Rodrigues de Lima</h1>
-<h3 align="center">Sou Desenvolvedor PHP Júnior</h3>
+<h3 align="center">Desenvolvedor PHP Júnior</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=daniellimar&label=Profile%20views&color=0e75b6&style=flat" alt="daniellimar" /> </p>
 
