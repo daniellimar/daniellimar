@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Rodrigues from Lima</h1>
+<h1 align="center">Hi, I'm Daniel Rodrigues de Lima</h1>
 <h3 align="center">👨‍💻 Senior Software Developer | PHP | Laravel | C# | .NET</h3>
 
 ## 🌐 Socials:
