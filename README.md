@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Senior Software Developer | PHP | Laravel | C# | .NET</h3>
 
 
-<h5>Senior Full Stack Developer specialized in PHP/Laravel e C#/.NET, responsible for participating in the development of web projects, ensuring the delivery of high quality and performance solutions. My routine includes crucial activities such as project architecture, back-end and front-end development, testing and quality assurance, in addition to collaborating effectively for the continuous growth and success of projects.</h5>
+<h5>Specialized in PHP/Laravel e C#/.NET, responsible for participating in the development of web projects, ensuring the delivery of high quality and performance solutions. My routine includes crucial activities such as project architecture, back-end and front-end development, testing and quality assurance, in addition to collaborating effectively for the continuous growth and success of projects.</h5>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniellimarrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellimar) 
